@@ -1,0 +1,49 @@
+/*FORMULARIO DE AGREGAR CITA*/
+.formAgregarCita{
+    background-size: 100% auto;
+    border-style: solid;
+    border-color: #000;
+    border-radius: 8px;
+    border-color: #007bff;
+    }
+    
+    
+      .tituloFormAgregarCita{
+        color: #007bff;
+        text-align: center;
+        font-weight: bold;
+            }
+
+/*FORMULARIO DE MODIFICAR CITA*/
+.formModificarCita{
+    background-size: 100% auto;
+    border-style: solid;
+    border-color: #000;
+    border-radius: 8px;
+    border-color: #007bff;
+    }
+    
+    
+      .tituloModificarCita{
+        color: #007bff;
+        text-align: center;
+        font-weight: bold;
+            }
+
+
+/*FORMULARIO DE CONSULTAR CITA*/
+
+.formConsultarCita{
+    background-size: 100% auto;
+    border-style: solid;
+    border-color: #000;
+    border-radius: 8px;
+    border-color: #007bff;
+    }
+    
+    
+      .tituloConsultarCita{
+        color: #007bff;
+        text-align: center;
+        font-weight: bold;
+            }

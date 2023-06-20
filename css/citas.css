@@ -1,0 +1,76 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 300;
+    background-color: var(--color-grey);
+    color: var(--color-light);
+    letter-spacing: .05rem;
+}
+
+#espacio_citas{
+    padding: 50px;
+}
+
+#cita{
+    background-color:  #87bef8;;
+}
+
+
+.p-6 {
+    padding: 4rem 7rem;
+}
+
+.contact-box {
+    padding: 3rem;
+
+}
+
+
+.btn-outline-dark {
+    border: 2px solid var(--color-dark-xx);
+}
+
+
+.form-control {
+    background-color: var(--color-dark-xx);
+  /*  border: 2px solid var(--color-dark-xx);*/
+    border-radius: .2rem;
+    padding: 1.5rem 1rem;
+}
+
+.register-bg {
+    background-image: url('../images/Cita_Medica.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+.testiomonial {
+    bottom: 10px
+}
+
+@media (max-width: 575.98px) {
+    .p-6 {
+        padding: 2rem;
+    }
+
+    .contact-box {
+        padding: 0;
+    }
+
+    .width-100 {
+        width: 100%;
+    }
+}
+
+@media (max-width: 1200px) { 
+    .register-bg {
+        min-height: 50vh;
+    }
+}
+
+.font-weight-bold{
+    color: #f5f6f8;
+}
+
